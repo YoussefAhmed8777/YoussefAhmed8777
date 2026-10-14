@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Full-Stack web developer.<br>I have built and developed many frontend projects using modern technologies and frameworks such as TypeScript and Angular, and as for the backend I have built RESTful APIs but still it's a work in progress.
+Frontend developer.<br>I have built and developed many frontend projects using modern technologies and frameworks such as TypeScript and Angular, and as for the backend I have built RESTful APIs but still it's a work in progress.
 
 
 ## 🌐 Socials:
